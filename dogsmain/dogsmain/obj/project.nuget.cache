@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "3aR7fgrLd6Ta6x+xV1vljFCP+8juty6/SI1g+D2Q1/HikzzAyjaQTXPerstdubdPcTZ9tkOthSkY1irSYkrCcg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\armi0\\source\\repos\\dogsmain\\dogsmain\\dogsmain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\armi0\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}
